@@ -19,13 +19,13 @@ Granite 3.1 models come in 4 varying sizes:
 
 Accordingly, these options provide a range of models with different compute requirements to choose from, with appropriate trade-offs with their performance on downstream tasks. At each scale, we release base model — checkpoints of models after pretraining, as well as instruct checkpoints — models finetuned for dialogue, instruction-following, helpfulness, and safety.
 
-Our prelimnary evaluation results show that Granite-3.1-8B-Instruct outperforms models of similar parameter sizes in [Hugging Face's OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/), as demonstrated in Figure 1. 
+Our prelimnary evaluation results show that Granite-3.1-8B-Instruct outperforms models of similar parameter sizes in [Hugging Face's OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and across Attaq Dimensions (as demonstrated in the following Figure). 
 
 <figure>
   <img src="https://github.com/ibm-granite/granite-3.1-language-models/blob/main/figures/granite-3_1-8b-instruct.png"
   alt="Base models performance.">
-  <figcaption>Fig 1. a) Granite-3.1-8B-Instruct results for Hugging Face's OpenLLM Leaderboard, b) Average results for safety evaluation on across Attaq Dimensions.
-   .</figcaption>
+  <!-- <figcaption>
+   .</figcaption> -->
 </figure>
 
 Comprehensive evaluation results for all model variants, as well as other relevant information will be available in Granite 3.1 Language Models technical report.
