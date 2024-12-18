@@ -25,8 +25,7 @@ Evaluation results show that Granite-3.1-8B-Instruct outperforms models of simil
   <img src="https://github.com/ibm-granite/granite-3.1-language-models/blob/main/figures/granite-3_1-8b-instruct.png"
   alt=" Granite-3.1-8B-Instruct">
   <figcaption>
-  Figure 1. Evaluation results from Granite-3.1-8B-Instruct in Hugging Face's OpenLLM Leaderboard
-   .</figcaption>
+  Figure 1. Evaluation results from Granite-3.1-8B-Instruct in Hugging Face's OpenLLM Leaderboard.</figcaption>
 </figure>
 
 Comprehensive evaluation results for all model variants, as well as other relevant information will be available in Granite 3.1 Language Models technical report.
