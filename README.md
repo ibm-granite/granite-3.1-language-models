@@ -4,7 +4,7 @@
 
 <p align="center">
   :books: <a href="https://github.com/ibm-granite/granite-3.1-language-models/">Paper (comming soon)</a>&nbsp | :hugs: <a href="https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d">HuggingFace Collection</a>&nbsp | 
-  :speech_balloon: <a href="https://github.com/orgs/ibm-granite/discussions">Discussions Page</a>&nbsp
+  :speech_balloon: <a href="https://github.com/orgs/ibm-granite/discussions">Discussions Page</a>&nbsp | 📘 <a href="https://www.ibm.com/granite/docs/">IBM Granite Docs</a>
 <br>
 
 ---
@@ -23,7 +23,7 @@ Our prelimnary evaluation results show that Granite-3.1-8B-Instruct outperforms 
 
 <figure>
   <img src="https://github.com/ibm-granite/granite-3.1-language-models/blob/main/figures/granite-3_1-8b-instruct.png"
-  alt="Base models performance.">
+  alt=" Granite-3.1-8B-Instruct">
   <!-- <figcaption>
    .</figcaption> -->
 </figure>
