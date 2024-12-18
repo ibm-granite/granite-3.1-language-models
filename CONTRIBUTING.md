@@ -3,7 +3,7 @@ We want to make contributing to this project as straightfoward as possible.
 
 ## :memo: Issues
 We use GitHub issues to track public bugs and inconsistencies. Plese follow these instructions to create an issue:
-1. Create a bug/inconsistency issue by using [this](./.github/ISSUE_TEMPLATE/01_bug_inconsistency_report.md) template.
+1. Create a bug/inconsistency issue by using [this](https://github.com/ibm-granite/granite-3.1-language-models/blob/main/.github/01_bug_inconsistency_report.md) template.
 2. Make sure to provide all the information that the template requires. Please provide clear instructions on how to reproduce the issue.
 
 ## :hammer: Pull Requests

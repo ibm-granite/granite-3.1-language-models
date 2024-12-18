@@ -11,15 +11,15 @@
 ## Introduction to Granite 3.1 Language Models
 Granite 3.1 language models are lightweight, state-of-the-art, open foundation models that natively support multilinguality, coding, reasoning, and tool usage, including the potential to be run on constrained compute resources. All the models are publicly released under an Apache 2.0 license for both research and commercial use. The models' data curation and training procedure were designed for enterprise usage and customization, with a process that evaluates datasets for governance, risk and compliance (GRC) criteria, in addition to IBM's standard data clearance process and document quality checks.
 
-Granite 3.1 language models extend the context length of Granite 3.0 language models from 4K to 128K using a progressive training strategy by increasing the supported context length in increments while adjusting RoPE theta until the models successfully adapt to the desired length of 128K. This long-context pre-training stage was performed using approximately 500B tokens. Moreover, the instruction models provide an improved developer experience for function-calling and RAG generation tasks.
+Granite 3.1 language models extend the context length of Granite 3.0 language models from 4K to 128K using a progressive training strategy by increasing the supported context length in increments while adjusting RoPE theta until the models successfully adapt to the desired length of 128K. This long-context pre-training stage was performed using approximately 500B tokens. Moreover, Granite 3.1 instruction models provide an improved developer experience for function-calling and RAG generation tasks.
 
-Granite 3.1 models come in 4 varying sizes:
+Granite 3.1 models come in 4 varying sizes and 2 architectures:
 - Dense Models: 2B and 8B parameter models, trained on 12 trillion tokens in total.
 - Mixture-of-Expert (MoE) Models: Sparse 1B and 3B MoE models, with 400M and 800M activated parameters respectively, trained on 10 trillion tokens in total.
 
 Accordingly, these options provide a range of models with different compute requirements to choose from, with appropriate trade-offs with their performance on downstream tasks. At each scale, we release base model — checkpoints of models after pretraining, as well as instruct checkpoints — models finetuned for dialogue, instruction-following, helpfulness, and safety.
 
-Our prelimnary evaluation results show that Granite-3.1-8B-Instruct outperforms models of similar parameter sizes in [Hugging Face's OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and across Attaq Dimensions (as demonstrated in the following Figure). 
+Our prelimnary evaluation results show that Granite-3.1-8B-Instruct outperforms models of similar parameter sizes in [Hugging Face's OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and across Attaq Dimensions. 
 
 <figure>
   <img src="https://github.com/ibm-granite/granite-3.1-language-models/blob/main/figures/granite-3_1-8b-instruct.png"
