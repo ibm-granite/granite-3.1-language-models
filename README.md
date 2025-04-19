@@ -30,6 +30,9 @@ Evaluation results show that Granite-3.1-8B-Instruct outperforms models of simil
 </br>
 Comprehensive evaluation results for all model variants, as well as other relevant information will be available in Granite 3.1 Language Models technical report.
 
+## Model Evaluation
+The evaluation process for Granite 3.1 language models involves assessing their performance on various benchmarks and tasks. The results of these evaluations are documented for each model variant to provide insights into their capabilities and performance.
+
 ## How to Use our Models?
 To use any of our models, pick an appropriate `model_path` from:
 1. `ibm-granite/granite-3.1-2b-base`

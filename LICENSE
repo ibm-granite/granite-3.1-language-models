@@ -199,3 +199,5 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   Granite 3.1 language models extend the context length of Granite 3.0 language models from 4K to 128K.
