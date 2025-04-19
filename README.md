@@ -87,15 +87,21 @@ All Granite 3.0 Language Models are distributed under [Apache 2.0](./LICENSE) li
 ## Would you like to provide feedback?
 Please let us know your comments about our family of language models by visiting our [collection](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d). Select the repository of the model you would like to provide feedback about. Then, go to *Community* tab, and click on *New discussion*. Alternatively, you can also post any questions/comments on our [github discussions page](https://github.com/orgs/ibm-granite/discussions).
 
-<!-- ## Citation
-If you find granite models useful, please cite:
+## Creating a Custom MCP and Code Generator
+To create a custom Model Configuration Protocol (MCP) and code generator, follow these steps:
 
-```
-@misc{granite2024granite,
-  title={Granite 3.0 Language Models},
-  url={},
-  author={Granite Team, IBM},
-  month={October},
-  year={2024}
-}
-``` -->
+1. **Understand the Existing Structure**: Review the existing structure and functionality of the Granite 3.1 language models. This will help you understand how to integrate your custom MCP and code generator.
+
+2. **Set Up Your Environment**: Ensure you have a suitable environment for development. Utilize your GPU server with 3xA5000 to train and test your custom MCP and code generator.
+
+3. **Develop Your MCP**: Create your custom MCP by defining the necessary configurations and protocols. Ensure it aligns with the existing Granite 3.1 models.
+
+4. **Create the Code Generator**: Develop the code generator that will work with your custom MCP. This generator should be able to produce code that is compatible with the Granite 3.1 models.
+
+5. **Testing and Validation**: Use your GPU server to train and test your custom MCP and code generator. Validate the results to ensure they meet your requirements.
+
+6. **Documentation**: Document your custom MCP and code generator thoroughly. This will help others understand and use your contributions.
+
+7. **Contribution**: Follow the guidelines in the `CONTRIBUTING.md` file to ensure your contributions align with the project's standards.
+
+By following these steps, you can create a custom MCP and code generator that integrates seamlessly with the Granite 3.1 language models.
