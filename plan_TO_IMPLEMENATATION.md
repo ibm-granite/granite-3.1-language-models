@@ -74,4 +74,3 @@ Backend API and CLI Support for UI:
 6. Use logr.js to log the start and end of the ask command execution, including the generated crid and any errors encountered. On error, print a generic error message to stderr.
 * 2.2.4. [CRITICAL EXPLICIT EXCLUSIONS FROM 24h PoC]: To achieve the 24-hour target, the PoC scope must strictly exclude the following features and functionalities:
 * [CRITICAL EXCLUSION] NO Hub Service implementa
-
