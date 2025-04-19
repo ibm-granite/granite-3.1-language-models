@@ -99,3 +99,16 @@ If you find granite models useful, please cite:
   year={2024}
 }
 ``` -->
+
+## Make Plane
+The "Make Plane" task involves creating a simple 3D plane model. This task is useful for understanding the basics of 3D modeling and can be a stepping stone to more complex 3D projects.
+
+### Instructions
+1. **Choose a 3D modeling software**: Select a software that you are comfortable with. Some popular options include Blender, Autodesk Maya, and SketchUp.
+2. **Create a new project**: Open your chosen software and create a new project.
+3. **Add a plane**: Use the software's tools to add a plane to your project. This is usually done by selecting the "Add" menu and choosing "Plane".
+4. **Adjust the plane's properties**: Modify the plane's size, position, and orientation as needed. You can usually do this by selecting the plane and using the software's transform tools.
+5. **Save your project**: Once you are satisfied with your plane, save your project. Make sure to choose a file format that is compatible with your software.
+
+### Purpose
+The purpose of this task is to familiarize yourself with the basic tools and functions of 3D modeling software. By creating a simple plane, you will learn how to navigate the software, add and manipulate objects, and save your work. This foundational knowledge will be useful for more advanced 3D modeling tasks in the future.
