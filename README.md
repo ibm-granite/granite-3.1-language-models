@@ -30,6 +30,9 @@ Evaluation results show that Granite-3.1-8B-Instruct outperforms models of simil
 </br>
 Comprehensive evaluation results for all model variants, as well as other relevant information will be available in Granite 3.1 Language Models technical report.
 
+## Model Evaluation
+The evaluation process for Granite 3.1 language models involves assessing their performance on various benchmarks and tasks. The results of these evaluations are documented for each model variant to provide insights into their capabilities and performance.
+
 ## How to Use our Models?
 To use any of our models, pick an appropriate `model_path` from:
 1. `ibm-granite/granite-3.1-2b-base`
@@ -86,6 +89,21 @@ All Granite 3.0 Language Models are distributed under [Apache 2.0](./LICENSE) li
 
 ## Would you like to provide feedback?
 Please let us know your comments about our family of language models by visiting our [collection](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d). Select the repository of the model you would like to provide feedback about. Then, go to *Community* tab, and click on *New discussion*. Alternatively, you can also post any questions/comments on our [github discussions page](https://github.com/orgs/ibm-granite/discussions).
+
+## Contributing Guidelines
+Please check our [Contributing Guidelines](CONTRIBUTING.md) to learn how to contribute to our project.
+
+## Reporting Bugs and Inconsistencies
+If you encounter any bugs or inconsistencies, please report them using our [Bug/Inconsistency Report Template](.github/01_bug_inconsistency_report.md).
+
+## Code Generation and Refactoring
+Use the models to generate boilerplate code for new projects, reducing the time spent on repetitive tasks. Implement automated code refactoring to improve code quality and maintainability. Generate code snippets for specific tasks or functions based on user input, enhancing developer productivity.
+
+## Code Analysis and Debugging
+Utilize the models to analyze code for potential bugs and suggest fixes. Implement a system to provide real-time code analysis and debugging assistance, helping developers identify and resolve issues more efficiently. Use the models to generate detailed explanations of code functionality, making it easier for developers to understand complex codebases.
+
+## Documentation and Learning
+Leverage the models to generate comprehensive documentation for codebases, including function descriptions, usage examples, and API references. Create interactive tutorials and learning resources using the models, helping developers learn new programming languages and frameworks. Implement a system to provide real-time code suggestions and explanations, assisting developers in writing better code and understanding best practices.
 
 <!-- ## Citation
 If you find granite models useful, please cite:
