@@ -1,0 +1,60 @@
+# Project Plan for Granite 3.1 Language Models
+
+## Objectives
+1. Develop state-of-the-art, open foundation models that support multilinguality, coding, reasoning, and tool usage.
+2. Ensure the models can be run on constrained compute resources.
+3. Release the models under an Apache 2.0 license for both research and commercial use.
+4. Design the data curation and training procedure for enterprise usage and customization.
+5. Extend the context length of Granite 3.0 language models from 4K to 128K.
+6. Improve the developer experience for function-calling and RAG generation tasks.
+
+## Milestones
+1. **Model Development**
+   - Develop Dense Models: 2B and 8B parameter models.
+   - Develop Mixture-of-Expert (MoE) Models: Sparse 1B and 3B MoE models.
+   - Train Dense Models on 12 trillion tokens.
+   - Train MoE Models on 10 trillion tokens.
+
+2. **Model Evaluation**
+   - Evaluate Granite-3.1-8B-Instruct on Hugging Face's OpenLLM Leaderboard.
+   - Document evaluation results for all model variants.
+
+3. **Model Release**
+   - Release base model checkpoints after pretraining.
+   - Release instruct checkpoints for dialogue, instruction-following, helpfulness, and safety.
+
+4. **Documentation**
+   - Create comprehensive evaluation results for all model variants.
+   - Provide detailed technical report for Granite 3.1 Language Models.
+
+## Timelines
+1. **Q1 2024**
+   - Complete development of Dense Models.
+   - Begin training of Dense Models.
+
+2. **Q2 2024**
+   - Complete development of MoE Models.
+   - Begin training of MoE Models.
+   - Complete training of Dense Models.
+
+3. **Q3 2024**
+   - Complete training of MoE Models.
+   - Begin model evaluation.
+   - Document evaluation results.
+
+4. **Q4 2024**
+   - Release base model checkpoints.
+   - Release instruct checkpoints.
+   - Publish detailed technical report.
+
+## Extracted Tasks
+1. Develop Dense Models: 2B and 8B parameter models.
+2. Develop Mixture-of-Expert (MoE) Models: Sparse 1B and 3B MoE models.
+3. Train Dense Models on 12 trillion tokens.
+4. Train MoE Models on 10 trillion tokens.
+5. Evaluate Granite-3.1-8B-Instruct on Hugging Face's OpenLLM Leaderboard.
+6. Document evaluation results for all model variants.
+7. Release base model checkpoints after pretraining.
+8. Release instruct checkpoints for dialogue, instruction-following, helpfulness, and safety.
+9. Create comprehensive evaluation results for all model variants.
+10. Provide detailed technical report for Granite 3.1 Language Models.

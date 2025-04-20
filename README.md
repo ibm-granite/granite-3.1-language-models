@@ -99,3 +99,8 @@ If you find granite models useful, please cite:
   year={2024}
 }
 ``` -->
+
+## Project Plan
+The project plan outlines the objectives, milestones, and timelines for the development of the Granite 3.1 Language Models. It provides a detailed roadmap to ensure the project stays on track and meets its goals.
+
+You can view the full project plan [here](./plan.txt).
